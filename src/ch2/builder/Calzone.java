@@ -1,4 +1,4 @@
-package ch1.builder;
+package ch2.builder;
 
 public class Calzone extends Pizza {
     private final boolean sauceInside;

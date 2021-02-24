@@ -1,6 +1,4 @@
-package ch1.builder;
-
-import java.util.function.Supplier;
+package ch2.builder;
 
 public class BuilderPatternTest {
     NyPizza pizza = new NyPizza.Builder(NyPizza.Size.SMALL)
